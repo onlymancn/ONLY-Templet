@@ -1,0 +1,10 @@
+视频调用
+<div class="wrapper">
+	<div class="site-wrapper">
+		<div class="zz">
+		</div>
+<video class="covervid-video" autoplay="" loop="">
+	<source src="视频地址" type="video/mp4">            
+	</video>         
+	</div>
+</div>
