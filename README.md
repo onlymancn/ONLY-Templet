@@ -12,5 +12,5 @@
      </div>
  
 ![ONLYMAN](http://blog.onlyman.cn/content/uploadfile/201608/90fd1470660912.jpg "ONLY模板")  
-![ONLYMAN](http://blog.onlyman.cn/content/uploadfile/201608/bc461470660920.png "ONLY模板")  
-![ONLYMAN](http://blog.onlyman.cn/content/uploadfile/201608/70771470660927.png "ONLY模板")  
+![ONLYMAN](http://blog.onlyman.cn/content/uploadfile/201608/bc461470660920.png "全屏视频")  
+![ONLYMAN](http://blog.onlyman.cn/content/uploadfile/201608/70771470660927.png "文章视频")  
