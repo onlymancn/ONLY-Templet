@@ -93,8 +93,8 @@
 </div><!-- #container -->
 
 <!-- JS -->
-<script type="text/javascript" src="http://www.onlyman.cn/content/templates/windyflat/js/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.onlyman.cn/content/templates/windyflat/js/slidebars.min.js"></script>
+<script type="text/javascript" src="<?php echo TEMPLATE_URL; ?>js/jquery.min.js"></script>
+<script type="text/javascript" src="<?php echo TEMPLATE_URL; ?>js/slidebars.min.js"></script>
 <script>(function(T,h,i,n,k,P,a,g,e){g=function(){P=h.createElement(i);a=h.getElementsByTagName(i)[0];P.src=k;P.async=1;a.parentNode.insertBefore(P,a)};T["ThinkPageWeatherWidgetObject"]=n;T[n]||(T[n]=function(){(T[n].q=T[n].q||[]).push(arguments)});T[n].l=+new Date();if(T.attachEvent){T.attachEvent("onload",g)}else{T.addEventListener("load",g,false)}}(window,document,"script","tpwidget","//widget.thinkpage.cn/widget/chameleon.js"))</script>
 <script>tpwidget('init', {
     "flavor": "bubble",
